@@ -1,0 +1,72 @@
+/* contents */
+.contents {
+  margin-bottom: 50px;
+}
+
+.contents__inner {
+  background-image: url(img/classbg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.contents__level2 {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.contents__info {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.contents__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  max-width: 780px;
+  margin: 0 auto 50px;
+}
+
+.contents__before,
+.contents__after {
+  background-color: #fff;
+  border: 1px solid #02509e;
+  border-radius: 4px;
+  width: 370px;
+}
+
+.contents__tarble__inner {
+  padding: 12px 5px;
+  font-size: 16px;
+  font-weight: 600;
+  border-top: 1px dotted #dedede;
+}
+
+.contents__tarble__inner:first-child {
+  border: none;
+  background-color: #02509e;
+  color: #fff;
+  padding: 14px 5px;
+  font-size: 20px;
+}
+
+.contents__under__text {
+  color: #fff;
+  background-color: #02509e;
+  text-align: center;
+  padding: 40px 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+
+
+
+/*  */
+/*  */
